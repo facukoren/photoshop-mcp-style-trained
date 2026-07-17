@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+photoshop-style-extractor/paths.txt
+style-layer/
